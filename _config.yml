@@ -18,8 +18,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en_US"
 title                    : "@developers_high;"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Hyperflow"
+subtitle                 : "Study, Development and Portfolio"
+name                     : "hyperflow"
 description              : "@developers_high;"
 url                      : "https://hyp3rflow.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -65,8 +65,8 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "hyp3rflow"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://avatars2.githubusercontent.com/u/49385012?s=460&v=4"
   bio              : "@developers_high;"
   location         : "Seoul, South Korea"
   email            : "hyperflow@kakao.com"
