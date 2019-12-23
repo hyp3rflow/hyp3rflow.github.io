@@ -196,6 +196,8 @@
 
     &.site-title {
       margin-left: 0;
+      font-weight: 300;
+      font-size: larger;
     }
   }
 
@@ -229,6 +231,8 @@
 
     a {
       position: relative;
+      font-size: medium;
+      font-weight: 300;
 
       &:before {
         content: "";
