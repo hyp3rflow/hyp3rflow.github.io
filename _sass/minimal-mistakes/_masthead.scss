@@ -85,15 +85,9 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-  
-  a {
-  font-weight: 500;
-  font-style: bold;
-  }
 
   &--lg {
     padding-right: 2em;
-    font-weight: 500;
-    font-style: bold;
+    font-weight: 700;
   }
 }

@@ -15,11 +15,11 @@ html {
   }
 
   @include breakpoint($large) {
-    font-size: 18px;
+    font-size: 20px;
   }
 
   @include breakpoint($x-large) {
-    font-size: 18px;
+    font-size: 22px;
   }
 
   -webkit-text-size-adjust: 100%;
@@ -136,7 +136,7 @@ input,
 select,
 textarea {
   margin: 0;
-  font-size: medium;
+  font-size: 100%;
   vertical-align: middle;
 }
 

@@ -196,8 +196,6 @@
 
     &.site-title {
       margin-left: 0;
-      font-weight: 300;
-      font-size: large;
     }
   }
 
@@ -231,19 +229,18 @@
 
     a {
       position: relative;
-      font-size: medium;
-      font-weight: 300;
 
       &:before {
         content: "";
         position: absolute;
         left: 0;
         bottom: 0;
-        height: 3px;
-        background: cornflowerblue;
+        height: 4px;
+        background: $primary-color;
         width: 100%;
-        -webkit-transition: all 0.2s ease-in-out;
-        transition: all 0.4s cubic-bezier(0.46, 0.03, 0.52, 0.96);
+        -webkit-transition: $global-transition;
+        transition: $global-transition;
+        -webkit-transform: scaleX(0) translate3d(0, 0, 0);
         transform: scaleX(0) translate3d(0, 0, 0); // hide
       }
 
