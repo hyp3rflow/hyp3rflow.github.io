@@ -1,8 +1,11 @@
 ---
 permalink: /about/
 title: "About"
-toc: true
+toc: false
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+### hyp3rflow@developers_high;
 
+2018 | 진주고등학교 졸업<br>2019 | 고려대학교 컴퓨터학과 입학 (재학 중)<br>2020 | 고려대학교 컴퓨터학과 알고리즘 동아리 ALPS 부회장
+
+> 초밥 좋아합니다 :sushi:
