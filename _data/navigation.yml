@@ -2,9 +2,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Problem Solved"
-    url: /ps/
-  - title: "Algorithms"
-    url: /algo/
+  - title: "Categories"
+    url: /categories/
   # - title: "Sitemap"
   #   url: /sitemap/
